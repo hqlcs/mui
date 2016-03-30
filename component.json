@@ -1,0 +1,8 @@
+{
+    "version": "1.0.5",
+    "repos": "https://github.com/aui/artDialog",
+    "protocol":"github:hqlcs/mui",
+    "description": "A moblie libary",
+    "name": "mui",
+    "main": "mui.js"
+}
